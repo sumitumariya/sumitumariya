@@ -1,4 +1,4 @@
-![logo](link)
+![logo]("C:\Users\Lenovo\Downloads\Purple Modern Gaming Youtube Banner.png")
 <h1 align="center">Hi 👋, I'm Sumit Umariya</h1>
 <h3 align="center">A passionate Fullstack Python Web Developer</h3>
 
