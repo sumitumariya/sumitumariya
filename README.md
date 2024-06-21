@@ -1,4 +1,4 @@
-![logo]("C:\Users\Lenovo\Downloads\Purple Modern Gaming Youtube Banner.png")
+![logo](https://github.com/sumitumariya/sumitumariya/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)")
 <h1 align="center">Hi 👋, I'm Sumit Umariya</h1>
 <h3 align="center">A passionate Fullstack Python Web Developer</h3>
 
